@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "spo2_footprint_1") (type "KiCad") (uri "C:/Users/emirh/KiCad Projects/Kicad Tools/Footprint Libraries/Spo2_Stuff/spo2_footprint_1.pretty") (options "") (descr ""))
+	(lib (name "Spo2_Stuff_Libraries") (type "KiCad") (uri "C:/Users/emirh/KiCad Projects/Kicad Tools/Footprint Libraries/Spo2_Stuff_Libraries.pretty") (options "") (descr ""))
+)
